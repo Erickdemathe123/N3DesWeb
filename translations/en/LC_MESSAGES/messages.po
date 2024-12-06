@@ -1,0 +1,108 @@
+msgid "Usuário:"
+msgstr "Username:"
+
+msgid "Senha:"
+msgstr "Password:"
+
+msgid "Entrar"
+msgstr "Login"
+
+msgid "Esqueceu sua senha?"
+msgstr "Forgot your password?"
+
+msgid "Criar uma conta"
+msgstr "Create an account"
+
+msgid "Lembrar de mim"
+msgstr "Remember me"
+msgid "Nome de Usuário:"
+msgstr "Username:"
+
+msgid "Confirmar Senha:"
+msgstr "Confirm Password:"
+
+msgid "Cadastrar"
+msgstr "Register"
+
+msgid "Já tem uma conta?"
+msgstr "Already have an account?"
+
+msgid "Aceito os Termos e Condições"
+msgstr "I accept the Terms and Conditions"
+msgid "Configurações"
+msgstr "Settings"
+
+msgid "Sair"
+msgstr "Logout"
+
+msgid "Alterar Senha"
+msgstr "Change Password"
+
+msgid "Meus Detalhes"
+msgstr "My Details"
+
+msgid "Editar Perfil"
+msgstr "Edit Profile"
+
+msgid "Salve as Alterações"
+msgstr "Save Changes"
+msgid "Acesso Proibido"
+msgstr "Forbidden"
+
+msgid "Página Não Encontrada"
+msgstr "Page Not Found"
+
+msgid "Sessão Expirada"
+msgstr "Session Expired"
+
+msgid "Ocorreu um erro inesperado"
+msgstr "An unexpected error occurred"
+
+msgid "Sucesso!"
+msgstr "Success!"
+
+msgid "Falha ao registrar"
+msgstr "Failed to register"
+
+msgid "Falha ao fazer login"
+msgstr "Failed to login"
+msgid "Usuário não encontrado"
+msgstr "User not found"
+
+msgid "Senha incorreta"
+msgstr "Incorrect password"
+
+msgid "Bem-vindo!"
+msgstr "Welcome!"
+
+msgid "Por favor, faça login para continuar"
+msgstr "Please log in to continue"
+
+msgid "Sua conta foi criada com sucesso"
+msgstr "Your account has been successfully created"
+
+msgid "Você foi desconectado"
+msgstr "You have been logged out"
+msgid "Página inicial"
+msgstr "Home"
+
+msgid "Perfil"
+msgstr "Profile"
+
+msgid "Usuários"
+msgstr "Users"
+
+msgid "Administração"
+msgstr "Administration"
+
+msgid "Buscar"
+msgstr "Search"
+
+msgid "Resultados"
+msgstr "Results"
+
+msgid "Editar"
+msgstr "Edit"
+
+msgid "Excluir"
+msgstr "Delete"

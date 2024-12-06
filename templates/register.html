@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ _('Registrar') }}</title>
+</head>
+<body>
+    <h2>{{ _('Registro') }}</h2>
+    <form method="POST">
+        <label for="username">{{ _('Nome de Usuário:') }}</label>
+        <input type="text" id="username" name="username" required><br><br>
+
+        <label for="password">{{ _('Senha:') }}</label>
+        <input type="password" id="password" name="password" required><br><br>
+
+        <label for="role">{{ _('Papel:') }}</label>
+        <select id="role" name="role" required>
+            <option value="user">{{ _('Usuário') }}</option>
+            <option value="admin">{{ _('Admin') }}</option>
+        </select><br><br>
+
+        <button type="submit">{{ _('Registrar') }}</button>
+    </form>
+</body>
+</html>

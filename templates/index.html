@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="{{ g.locale }}">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ _('Bem-vindo ao nosso site!') }}</title>
+</head>
+<body>
+    <h1>{{ _('Bem-vindo ao nosso site!') }}</h1>
+    <p>{{ _('Olá,') }} {{ username }}! {{ _('Seu papel é:') }} {{ role }}.</p>
+
+    <h2>{{ _('Login') }}</h2>
+    <a href="{{ url_for('login') }}">{{ _('Entrar') }}</a><br><br>
+
+    <h2>{{ _('Registrar') }}</h2>
+    <a href="{{ url_for('register') }}">{{ _('Registrar') }}</a><br><br>
+
+    <a href="{{ url_for('set_language', language='pt') }}">{{ _('Português') }}</a> |
+    <a href="{{ url_for('set_language', language='en') }}">{{ _('English') }}</a>
+</body>
+</html>

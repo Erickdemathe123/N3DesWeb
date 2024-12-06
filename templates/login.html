@@ -1,0 +1,31 @@
+<!-- login.html -->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ _('Login') }}</title>
+</head>
+<body>
+    <h1>{{ _('Login') }}</h1>
+    <form method="POST">
+        <label for="username">{{ _('Usuário:') }}</label>
+        <input type="text" id="username" name="username" required><br><br>
+        <label for="password">{{ _('Senha:') }}</label>
+        <input type="password" id="password" name="password" required><br><br>
+        <button type="submit">{{ _('Entrar') }}</button>
+    </form>
+
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        <ul>
+          {% for category, message in messages %}
+            <li>{{ message }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endwith %}
+
+    <a href="{{ url_for('set_language', language='pt') }}">Português</a> |
+    <a href="{{ url_for('set_language', language='en') }}">English</a>
+</body>
+</html>

@@ -1,0 +1,85 @@
+msgid "Bem-vindo ao nosso site!"
+msgstr "Bem-vindo ao nosso site!"
+
+msgid "Olá,"
+msgstr "Olá,"
+
+msgid "Seu papel é:"
+msgstr "Seu papel é:"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Registrar"
+msgstr "Registrar"
+msgid "Usuário:"
+msgstr "Usuário:"
+
+msgid "Senha:"
+msgstr "Senha:"
+
+msgid "Entrar"
+msgstr "Entrar"
+
+msgid "Esqueceu sua senha?"
+msgstr "Esqueceu sua senha?"
+
+msgid "Criar uma conta"
+msgstr "Criar uma conta"
+
+msgid "Lembrar de mim"
+msgstr "Lembrar de mim"
+
+msgid "Nome de Usuário:"
+msgstr "Nome de Usuário:"
+
+msgid "Confirmar Senha:"
+msgstr "Confirmar Senha:"
+
+msgid "Cadastrar"
+msgstr "Cadastrar"
+
+msgid "Já tem uma conta?"
+msgstr "Já tem uma conta?"
+
+msgid "Aceito os Termos e Condições"
+msgstr "Aceito os Termos e Condições"
+
+msgid "Configurações"
+msgstr "Configurações"
+
+msgid "Sair"
+msgstr "Sair"
+
+msgid "Alterar Senha"
+msgstr "Alterar Senha"
+
+msgid "Meus Detalhes"
+msgstr "Meus Detalhes"
+
+msgid "Editar Perfil"
+msgstr "Editar Perfil"
+
+msgid "Salve as Alterações"
+msgstr "Salvar Alterações"
+
+msgid "Acesso Proibido"
+msgstr "Acesso Proibido"
+
+msgid "Página Não Encontrada"
+msgstr "Página Não Encontrada"
+
+msgid "Sessão Expirada"
+msgstr "Sessão Expirada"
+
+msgid "Ocorreu um erro inesperado"
+msgstr "Ocorreu um erro inesperado"
+
+msgid "Sucesso!"
+msgstr "Sucesso!"
+
+msgid "Falha ao registrar"
+msgstr "Falha ao registrar"
+
+msgid "Falha ao fazer login"
+msgstr "Falha ao fazer login"
