@@ -1,3 +1,18 @@
+msgid "Bem-vindo ao nosso site!"
+msgstr "Welcome to our website!"
+
+msgid "Olá,"
+msgstr "Hello,"
+
+msgid "Seu papel é:"
+msgstr "Your role is:"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Registrar"
+msgstr "Register"
+
 msgid "Usuário:"
 msgstr "Username:"
 
@@ -15,6 +30,7 @@ msgstr "Create an account"
 
 msgid "Lembrar de mim"
 msgstr "Remember me"
+
 msgid "Nome de Usuário:"
 msgstr "Username:"
 
@@ -29,6 +45,7 @@ msgstr "Already have an account?"
 
 msgid "Aceito os Termos e Condições"
 msgstr "I accept the Terms and Conditions"
+
 msgid "Configurações"
 msgstr "Settings"
 
@@ -46,6 +63,7 @@ msgstr "Edit Profile"
 
 msgid "Salve as Alterações"
 msgstr "Save Changes"
+
 msgid "Acesso Proibido"
 msgstr "Forbidden"
 
@@ -65,7 +83,8 @@ msgid "Falha ao registrar"
 msgstr "Failed to register"
 
 msgid "Falha ao fazer login"
-msgstr "Failed to login"
+msgstr "Failed to log in"
+
 msgid "Usuário não encontrado"
 msgstr "User not found"
 
@@ -83,6 +102,7 @@ msgstr "Your account has been successfully created"
 
 msgid "Você foi desconectado"
 msgstr "You have been logged out"
+
 msgid "Página inicial"
 msgstr "Home"
 

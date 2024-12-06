@@ -1,85 +1,128 @@
-msgid "Bem-vindo ao nosso site!"
+msgid "Welcome to our website!"
 msgstr "Bem-vindo ao nosso site!"
 
-msgid "Olá,"
+msgid "Hello,"
 msgstr "Olá,"
 
-msgid "Seu papel é:"
+msgid "Your role is:"
 msgstr "Seu papel é:"
 
 msgid "Login"
 msgstr "Login"
 
-msgid "Registrar"
+msgid "Register"
 msgstr "Registrar"
-msgid "Usuário:"
+
+msgid "Username:"
 msgstr "Usuário:"
 
-msgid "Senha:"
+msgid "Password:"
 msgstr "Senha:"
 
-msgid "Entrar"
+msgid "Login"
 msgstr "Entrar"
 
-msgid "Esqueceu sua senha?"
+msgid "Forgot your password?"
 msgstr "Esqueceu sua senha?"
 
-msgid "Criar uma conta"
+msgid "Create an account"
 msgstr "Criar uma conta"
 
-msgid "Lembrar de mim"
+msgid "Remember me"
 msgstr "Lembrar de mim"
 
-msgid "Nome de Usuário:"
+msgid "Username:"
 msgstr "Nome de Usuário:"
 
-msgid "Confirmar Senha:"
+msgid "Confirm Password:"
 msgstr "Confirmar Senha:"
 
-msgid "Cadastrar"
+msgid "Register"
 msgstr "Cadastrar"
 
-msgid "Já tem uma conta?"
+msgid "Already have an account?"
 msgstr "Já tem uma conta?"
 
-msgid "Aceito os Termos e Condições"
+msgid "I accept the Terms and Conditions"
 msgstr "Aceito os Termos e Condições"
 
-msgid "Configurações"
+msgid "Settings"
 msgstr "Configurações"
 
-msgid "Sair"
+msgid "Logout"
 msgstr "Sair"
 
-msgid "Alterar Senha"
+msgid "Change Password"
 msgstr "Alterar Senha"
 
-msgid "Meus Detalhes"
+msgid "My Details"
 msgstr "Meus Detalhes"
 
-msgid "Editar Perfil"
+msgid "Edit Profile"
 msgstr "Editar Perfil"
 
-msgid "Salve as Alterações"
+msgid "Save Changes"
 msgstr "Salvar Alterações"
 
-msgid "Acesso Proibido"
+msgid "Forbidden"
 msgstr "Acesso Proibido"
 
-msgid "Página Não Encontrada"
+msgid "Page Not Found"
 msgstr "Página Não Encontrada"
 
-msgid "Sessão Expirada"
+msgid "Session Expired"
 msgstr "Sessão Expirada"
 
-msgid "Ocorreu um erro inesperado"
+msgid "An unexpected error occurred"
 msgstr "Ocorreu um erro inesperado"
 
-msgid "Sucesso!"
+msgid "Success!"
 msgstr "Sucesso!"
 
-msgid "Falha ao registrar"
+msgid "Failed to register"
 msgstr "Falha ao registrar"
 
-msgid "Falha ao fazer login"
+msgid "Failed to log in"
 msgstr "Falha ao fazer login"
+
+msgid "User not found"
+msgstr "Usuário não encontrado"
+
+msgid "Incorrect password"
+msgstr "Senha incorreta"
+
+msgid "Welcome!"
+msgstr "Bem-vindo!"
+
+msgid "Please log in to continue"
+msgstr "Por favor, faça login para continuar"
+
+msgid "Your account has been successfully created"
+msgstr "Sua conta foi criada com sucesso"
+
+msgid "You have been logged out"
+msgstr "Você foi desconectado"
+
+msgid "Home"
+msgstr "Página inicial"
+
+msgid "Profile"
+msgstr "Perfil"
+
+msgid "Users"
+msgstr "Usuários"
+
+msgid "Administration"
+msgstr "Administração"
+
+msgid "Search"
+msgstr "Buscar"
+
+msgid "Results"
+msgstr "Resultados"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Delete"
+msgstr "Excluir"
