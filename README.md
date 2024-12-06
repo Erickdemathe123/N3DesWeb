@@ -64,3 +64,7 @@ Como usuário comum, tente acessar páginas restritas, como /register e /users, 
 
 Paginação:
 Acesse a página /products e use os botões de paginação para navegar entre as páginas.
+
+Para instalar as blibliotecas.
+pip install flask flask-login flask-paginate flask-principal flask-babel
+
