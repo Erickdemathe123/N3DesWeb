@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ g.locale }}">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,24 +7,52 @@
     <style>
         body {
             font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
             text-align: center;
-            padding: 50px;
-            background-color: #f8f9fa;
-            color: #343a40;
+            padding: 20px;
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            max-width: 400px;
+            margin: auto;
+        }
+        h2 {
+            color: #e63946;
+            margin-bottom: 15px;
+        }
+        p {
+            font-size: 16px;
+            margin-bottom: 20px;
         }
         a {
-            color: #007bff;
+            display: inline-block;
+            padding: 10px 15px;
             text-decoration: none;
+            background-color: #457b9d;
+            color: white;
+            font-weight: bold;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
         }
         a:hover {
-            text-decoration: underline;
+            background-color: #1d3557;
         }
     </style>
 </head>
 <body>
-    <h1>{{ _('Erro 403') }}</h1>
-    <h2>{{ _('Acesso Proibido') }}</h2>
-    <p>{{ _('Você não tem permissão para acessar esta página.') }}</p>
-    <a href="/">{{ _('Voltar para a página inicial') }}</a>
+    <div class="container">
+        <h2>{{ _('Acesso Proibido') }}</h2>
+        <p>{{ _('Você não tem permissão para acessar esta página.') }}</p>
+        <a href="/" title="{{ _('Voltar para a página inicial') }}">{{ _('Voltar para a página inicial') }}</a>
+    </div>
 </body>
 </html>
